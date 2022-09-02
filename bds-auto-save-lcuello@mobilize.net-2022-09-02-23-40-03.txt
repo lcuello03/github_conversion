@@ -1,0 +1,48 @@
+ D Logs/ConversionLog.20220525.051637.log
+ D Logs/GenericInfrastructureController/Controller-Log-20220525.051634.log
+ D Logs/SnowConvert-Log-20220525.051637.log
+ D Reports/Assessment.20220525.051637.csv
+ D Reports/Assessment.20220525.051637.docx
+ D Reports/Assessment.20220525.051637.html
+ D Reports/Elements.20220525.051637.csv
+ D Reports/Issues.20220525.051637.csv
+ D Reports/Lineage.20220525.051637.csv
+ D Reports/Summary.20220525.051637.csv
+ D Reports/TopLevelObjects.20220525.051637.csv
+ D Reports/TopLevelQueries.20220525.051637.csv
+ M Target/CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql
+ M Target/CLI_T12/CLI/Encoding/US-ASCII/US-ASCII.sql
+ M "Target/CLI_T12/CLI/Encoding/Unicode (UTF-8)/Unicode (UTF-8).sql"
+ M "Target/CLI_T12/CLI/Encoding/Western European (ISO 8859-1)/Western European (ISO 8859-1).sql"
+ M Target/CLI_T12/CLI/TC_401780/Table_DDL_accross_Databases.sql
+ M Target/CLI_T12/CLI/disableEwiComments/disableEwiComments.sql
+ M Target/CLI_T12/CLI/missingDependencies/missingDependencies.sql
+ M Target/CLI_T12/CLI/replaceDeleteAllToTruncate/replaceDeleteAllToTruncate.sql
+ M Target/CLI_T12/CLI/timeFormat/timeFormat.sql
+ M "Target/UDF Helpers/PERIOD_UDF.sql"
+ M "Target/UDF Helpers/STUBS_UDF.sql"
+?? .gitignore
+?? Logs/ConversionLog.20220902.222052.log
+?? Logs/ConversionLog.20220902.222722.log
+?? Logs/GenericInfrastructureController/Controller-Log-20220902.222049.log
+?? Logs/GenericInfrastructureController/Controller-Log-20220902.222720.log
+?? Logs/SnowConvert-Log-20220902.222052.log
+?? Logs/SnowConvert-Log-20220902.222722.log
+?? Reports/Assessment.20220902.222052.csv
+?? Reports/Assessment.20220902.222052.docx
+?? Reports/Assessment.20220902.222722.csv
+?? Reports/Assessment.20220902.222722.docx
+?? Reports/Elements.20220902.222052.csv
+?? Reports/Elements.20220902.222722.csv
+?? Reports/Issues.20220902.222052.csv
+?? Reports/Issues.20220902.222722.csv
+?? Reports/Lineage.20220902.222052.csv
+?? Reports/Lineage.20220902.222722.csv
+?? Reports/Summary.20220902.222052.csv
+?? Reports/Summary.20220902.222722.csv
+?? Reports/TopLevelObjects.20220902.222052.csv
+?? Reports/TopLevelObjects.20220902.222722.csv
+?? Reports/TopLevelQueries.20220902.222052.csv
+?? Reports/TopLevelQueries.20220902.222722.csv
+?? Sources/CLI_T12/CLI/CustomizeNames/error.txt
+?? bds-auto-save-lcuello@mobilize.net-2022-09-02-23-40-03.txt

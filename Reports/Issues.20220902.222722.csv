@@ -1,0 +1,7 @@
+SessionID,Name,Description,Severity,Line,Column,ParentFile,TopLevelCategory,Code
+ba0f445e-9caf-4543-8075-6f4ee0565024,FunctionNotSupported,** MSC-ERROR - MSCEWI1031 - PRIOR FUNCTION NOT SUPPORTED **,Medium,87,0,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,Function statements,MSCEWI1031
+ba0f445e-9caf-4543-8075-6f4ee0565024,WarningParameterMissingDependency,** MSC-WARNING - MSCEWI1022 - ONE OR MORE IDENTIFIERS IN THIS STATEMENT WERE CONSIDERED PARAMETERS BY DEFAULT. REFERENCED TABLE NOT FOUND. **,Low,0,0,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,No category specified,MSCEWI1022
+ba0f445e-9caf-4543-8075-6f4ee0565024,WarningCustomUDFInserted,** MSC-WARNING - MSCEWI1020 - CUSTOM UDF 'PERIOD_END_UDF' INSERTED. **,Low,0,0,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,No category specified,MSCEWI1020
+ba0f445e-9caf-4543-8075-6f4ee0565024,WarningMissingDependenciyObjects,"** MSC-WARNING - MSCEWI1050 - MISSING DEPENDENT OBJECT ""SomeTable"" **",Low,0,0,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,No category specified,MSCEWI1050
+ba0f445e-9caf-4543-8075-6f4ee0565024,WarningPeriodsHandledAsVarchar,"** MSC-WARNING - MSCEWI2053 - SNOWFLAKE DOES NOT SUPPORT THE PERIOD DATATYPE, ALL PERIODS ARE HANDLED AS VARCHAR INSTEAD **",Low,0,0,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,No category specified,MSCEWI2053
+ba0f445e-9caf-4543-8075-6f4ee0565024,UnsupportedPrimaryIndex,** MSC-WARNING - MSCEWI2065 - NON UNIQUE PRIMARY INDEX IS NOT SUPPORTED IN SNOWFLAKE **,Low,9,0,CLI_T12/CLI/CustomizeNames/SQL_BasicSample.sql,No category specified,MSCEWI2065
