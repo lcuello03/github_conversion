@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "connId": 2012,
+            "schema": "PUBLIC",
+            "role": "BIFROST_ADMIN",
+            "driver": "Snowflake",
+            "name": "review",
+            "account": "mobilize",
+            "username": "U2FsdGVkX1+6NrH3Jwskqcj/VCnHKPmewCUX0Mdetpw=",
+            "password": "U2FsdGVkX1+OGqCMxtZL4hZKj2vJmvswjMUknjTrt7c=",
+            "database": "DB1",
+            "warehouse": "BDS_WH"
+        }
+    ],
+    "sqltools.defaultConnId": 2012
+}
